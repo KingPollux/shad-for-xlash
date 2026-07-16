@@ -26,7 +26,11 @@ DOMAIN,e4e681c508b52840389b95a6edb060446f63a719-3000.dstack-prod8.phala.network
 # 中国 AI
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,siliconflow.cn
 
+# 富可敌国 需直连 AI
+DOMAIN-SUFFIX,hybgzs.com
+DOMAIN-SUFFIX,sharedchat.cc
 
 # 我的网站
 DOMAIN-SUFFIX,fotokon.com
